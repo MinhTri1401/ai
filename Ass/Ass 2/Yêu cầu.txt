@@ -1,0 +1,35 @@
+Bài tập lớn 2
+Nội dung: 
+
+- Hiện thực các giải thuật đã học: evaluation function, minimax, alpha-beta pruning, expectimax.
+
+- Ngôn ngữ Python 3.x. Tốt nhất các bạn sử dụng phiên bản Python 3.7.x do hiện tại máy chấm sử dụng 3.7.6. (Không nên sử dụng 3.8.x vì phiên bản này mới, chưa ổn định và không tương thích với code cho sẵn).
+
+Yêu cầu:
+
+- Bài tập lớn sẽ đánh giá kỹ năng theo cá nhân, nên mỗi sinh viên sẽ tự hiện thực các giải thuật này một mình.
+
+- Các bạn có thể thảo luận với nhau hoặc thảo luận trên diễn đàn về các thắc mắc. Tuy nhiên, tuyệt đối KHÔNG được chia sẻ lời giải (source code) cho nhau, cũng như KHÔNG được chia sẻ lời giải trên các kho lưu trữ mở (như Github). 
+
+Nộp bài:
+
+- Nộp duy nhất 1 file multiAgents.py. Lưu ý không được nén hoặc đổi tên của file nộp.
+
+Hạn chót:
+
+- Thứ Tư ngày 27 tháng 05 năm 2020 lúc 23:55
+
+
+Kết quả:
+
+- Các bạn tham khảo file result.zip để xem kết quả và feedback.
+
+- Tổng điểm cho bài tập lớn 1 là 100 (dựa theo tỷ lệ trong file autograder.py cho sẵn).
+
+- Time out cho mỗi testcase là 120 giây. Nếu quá thời gian trên sẽ không có điểm.
+
+- Kết quả Câu 1 dựa vào kết quả thực thi trên bản đồ openClassic.lay 10 lần (đính kèm bên dưới testcase.zip)
+
+- Kết quả Câu 5 dựa vào kết quả thực thi trên bản đồ smallClassic.lay 10 lần (đính kèm bên dưới testcase.zip)
+
+- Mọi thắc mắc về kết quả BTL 2, vui lòng liên hệ nguyenhomanrang@hcmut.edu.vn

@@ -1,0 +1,37 @@
+Nội dung: 
+
+- Hiện thực các giải thuật tìm kiếm đã học.
+
+- Ngôn ngữ Python 3.x. Tốt nhất các bạn sử dụng phiên bản Python 3.7.x do hiện tại máy chấm sử dụng 3.7.6. (Không nên sử dụng 3.8.x vì phiên bản này mới, chưa ổn định và không tương thích với code cho sẵn).
+
+Yêu cầu:
+
+- Bài tập lớn sẽ đánh giá kỹ năng theo cá nhân, nên mỗi sinh viên sẽ tự hiện thực các giải thuật này một mình.
+
+- Các bạn có thể thảo luận với nhau hoặc thảo luận trên diễn đàn về các thắc mắc. Tuy nhiên, tuyệt đối KHÔNG được chia sẻ lời giải (source code) cho nhau, cũng như KHÔNG được chia sẻ lời giải trên các kho lưu trữ mở (như Github). 
+
+Nộp bài:
+
+- Nộp 2 file search.py và searchAgents.py . Lưu ý không được nén hoặc đổi tên file. 
+
+Hạn chót:
+
+- Thứ Tư ngày 06 tháng 05 năm 2020 lúc 23:55 
+
+- Thứ Tư ngày 13 tháng 05 năm 2020 lúc 23:55
+
+Kết quả:
+
+- Các bạn tham khảo file result.zip để xem kết quả và feedback.
+
+- Tổng điểm cho bài tập lớn 1 là 100 (dựa theo tỷ lệ trong file autograder.py cho sẵn).
+
+- Time out cho mỗi testcase là 200 giây. Nếu quá thời gian trên sẽ không có điểm.
+
+- Câu 5 được chấm khi câu 2 đạt trọn điểm (12/12). 
+
+- Câu 6, 7 được chấm khi câu 4 đạt trọn điểm (12/12). 
+
+- Câu 7: được chấm dựa vào thời gian chạy (đính kèm là testcase food_heuristic_grade_tricky.test ). Hoàn tất trong khoảng từ 20 - 40 giây sẽ đạt trọn điểm (16 điểm). Nếu chậm hơn cứ 10 giây sẽ bị trừ 1 điểm. Ngược lại nếu chạy nhanh hơn 10 giây sẽ được cộng 1 điểm. Nếu không bị timeout các bạn sẽ được cộng 1 điểm.
+
+Câu 5, 6, 7, 8 không tính điểm thành phần, nếu sai 1 testcase thì toàn bộ câu đó sẽ không tính điểm. Nguyên nhân là trong các testcase của các câu 5, 6, 7, 8 chỉ có 1 testcase chính để tính điểm, các testcase còn lại chỉ là testcase phụ. 
